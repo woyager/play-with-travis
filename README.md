@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/woyager/play-with-travis.svg?branch=master)](https://travis-ci.org/woyager/play-with-travis)
+
 ### Play with Travis CI
 
-Test slack notification
+Fork. Added travis/slack integration.
